@@ -1,0 +1,19 @@
+#pixi
+{
+    text-align: center;
+    justify-content: center;
+}
+
+body
+{
+    text-align: center;
+    background-image: linear-gradient(to  right, rgb(83, 11, 65), rgb(216, 205, 205));
+    margin-top: 2.5%;
+}
+
+#doc
+{
+    font-size: 20px;
+    margin-top: 1%;
+}
+
